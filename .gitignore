@@ -1,0 +1,10 @@
+# Archivos secretos (contraseñas)
+.env
+
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Código compilado (se genera con 'npm run build')
+dist/
+
+/node_modules
